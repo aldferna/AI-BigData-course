@@ -1,0 +1,10 @@
+1. Arrays and DataFrames in Python
+
+We want to simulate a process of analyzing patient temperatures.
+To do this, we will create a 2D matrix (rows - days / columns - patients) with random temperature values.
+We will calculate the average, the minimum, and the maximum value for each patient and each day.
+Try swapping row orders, sorting the array, and formatting the output to limit the number of decimals.
+
+In Python:
+Version 1: Without using DataFrames.
+Version 2: Using DataFrames.

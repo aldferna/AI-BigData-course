@@ -1,0 +1,13 @@
+We want to create a height estimation based on age with real data (children_height_age.csv) 
+using linear regression.
+
+Three models will be done: female/male and both.
+Six predictions will be held for each model: 
+- 7 and a half years old
+- 8 and a half years old
+- 9 and a half years old
+- 14 and a half years old 
+- 15 and a half years old
+- 16 and a half years old
+
+Create a .ipynb file and the predictions chart.
